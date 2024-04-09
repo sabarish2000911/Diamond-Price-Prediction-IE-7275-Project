@@ -3,6 +3,11 @@
 ### Diamond
 Diamond is a type of carbon that forms a hard crystal structure. It's different from graphite, another form of carbon, because it stays solid at room temperature and doesn't easily change into graphite. Diamonds are super tough and great at conducting heat, which makes them useful for cutting and polishing tools. They're also handy in diamond anvil cells, helping scientists mimic the intense pressures deep within the Earth.
 
+<div style="text-align: center;">
+    <img src="https://www.diamonds.pro/wp-content/uploads/2023/04/proportions.jpg" alt="Diamond Measurements" width="500">
+</div>
+
+
 ### Dataset
 This dataset comprises the prices and various characteristics of nearly 54,000 diamonds. It's an excellent resource for machine learning, as well as for data analysis and visualization projects.
 
